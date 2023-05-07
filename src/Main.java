@@ -10,7 +10,7 @@ public class Main {
         task8();
     }
     public static void task1() {
-        System.out.println("Задача 1");
+        System.out.println("Задача 2");
         int contribution = 15000;
         int moneyAccumulation = 0;
         int monthAccumulation = 1;
